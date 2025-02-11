@@ -1,4 +1,4 @@
-package app;
+package app.customer;
 
 public class Customer {
     private String name;
@@ -23,5 +23,10 @@ public class Customer {
 
     public void setPhone(String phone) {
         this.phone = phone;
+    }
+
+    @Override
+    public String toString() {
+        return  "Customer: " + getName() + ", phone: " + getPhone();
     }
 }
