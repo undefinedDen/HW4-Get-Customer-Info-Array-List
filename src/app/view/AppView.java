@@ -1,6 +1,6 @@
 package app.view;
 
-import app.customer.Customer;
+import app.entity.Customer;
 import java.util.List;
 import java.util.Scanner;
 

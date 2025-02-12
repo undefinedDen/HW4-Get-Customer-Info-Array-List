@@ -1,4 +1,4 @@
-package app.customer;
+package app.entity;
 
 public class Customer {
     private String name;

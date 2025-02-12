@@ -1,6 +1,6 @@
 package app.controller;
 
-import app.customer.Customer;
+import app.entity.Customer;
 import app.util.AppConstants;
 import app.view.AppView;
 import java.util.ArrayList;
